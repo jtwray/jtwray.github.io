@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Tucker Wray",
+    "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/42871401?s=96&v=4",
     "email": "jamestuckerwray@gmail.com",
     "phone": "276-734-3811",
@@ -24,21 +24,24 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "React", "AWS" ]
+      "keywords": [ "html", "css", "Node", "Javascript", "React", "AWS" ]
     },fgg
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Postman", "Ubuntu", "Git/GitHub", "AWS", "llm","chatgpt"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Lambda School, remote",
+      "area": "Computer Science (November, 2020)",
+      "studyType": "intern",
+      "startDate": "2019-02-11",
+      "endDate": "2020-11-20",
       "courses": [
+        "Full Stack Web Development",
+        "Data Science & Algorithms",
+        "Labs Internship"
       ]
     }
   ],
